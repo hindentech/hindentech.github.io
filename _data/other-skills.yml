@@ -1,0 +1,22 @@
+- name: Project Management
+  percentage: 90
+  color: success
+
+- name: Cloud Engineering
+  percentage: 85
+  color: success
+
+- name: Business Strategy
+  percentage: 85
+  color: success
+
+- name: Finance & Operations
+  percentage: 80
+  color: info
+
+- name: Reporting & Analytics
+  percentage: 75
+  color: info
+
+
+

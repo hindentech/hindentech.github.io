@@ -1,0 +1,19 @@
+- name: HTML5/CSS3
+  percentage: 80
+  color: success
+
+- name: JavaScript
+  percentage: 50
+  color: 
+
+- name: Bicep
+  percentage: 40
+  color: secondary
+
+- name: Python
+  percentage: 30
+  color: danger
+
+- name: PowerShell
+  percentage: 30
+  color: danger

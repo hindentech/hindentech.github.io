@@ -43,3 +43,14 @@ I found the most challenging aspect of Chunk 1 to be understanding the proper se
 I will return to this Chunk and incorporate the Developer and DevOps Mods after completing the original challenge. I had the urge to jump into these mods right away, but I also didn't want to slow down the overall momentum of the main challenge.
 
 ## Chunk 2. Building the API
+
+I recall the Official Cloud Resume Challenge pointed out that most of the Challenges found online remain unfinished after Chunk 1, with only the front-end website to show. After spending countless hours completing this part, I completely understand why this is the case.
+
+Again, I don't consider myself to be a "coder", but I have always been able to integrate unknown systems together programmatically using a mixture of Google-fu and unwavering determination. However, this chunk took those skills to the next level. I had to learn the basics of so many interconnected pieces, such as: Cosmos DB data structures, input/output function bindings, HTTP triggers, Node.js, CORS, app keys, etc...and then how to make all these pieces work together, simply to increment and store a resume counter variable.
+
+Setting up the database was pretty straightforward, but creating a function that interacted with the database was truly humbling. I spent weeks on and off working on the integration. Thankfully, after overcoming obstacle after obstacle, my function was finally complete.
+
+As soon as the function worked as expected, I pivoted immediately to learning how to properly secure the database and function from the internet using CORS and service firewalls. After all, security is paramount when building cloud-based systems.
+
+## Chunk 3. Front-end / back-end integration
+
